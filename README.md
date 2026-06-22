@@ -69,8 +69,7 @@ These notes were created for:
 2. Follow the concepts in sequence.
 3. Practice the interview questions at the end.
 
-## Author
-
+## 👨‍💻 Author
 Neelu Sahai
 
 
