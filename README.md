@@ -17,8 +17,10 @@ Whether you're preparing for Java interviews or trying to optimize your applicat
 - 🎯 Java Interview Questions
 
 > 📖 **Looking for detailed explanations, JVM internals, and interview notes?**
->
-> Explore the Wiki for complete documentation.
+> 📄 **Read the complete guide here:**
+
+📄 **[https://github.com/Java_Garbage_Collector_Guide ](https://github.com/temptation4/garbage_Collector/blob/main/garbage%20collector.pdf)**
+> Explore the Link for complete documentation.
 
 
 ⭐ If you find this repository helpful, consider giving it a star!
